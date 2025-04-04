@@ -1,6 +1,6 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19008441)
 # Nome do projeto
-
+Envelhecer Digital
 Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
@@ -12,8 +12,8 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Nome completo do professor 1: Rommel Vieira Carneiro
+* Nome completo do professor 2: Cleiton Silva Tavares
 
 
 
