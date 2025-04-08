@@ -6,11 +6,11 @@ Informações básicas do projeto.
 * **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
 * **Membros da equipe:**
 
-  * [Anthony](https://github.com/fulano) 
-  * [Fábio Garcia](https://github.com/beltrano) 
+  * [Anthony](https://github.com/anthonyfreitasborges) 
+  * [Fábio Garcia](https://github.com/Fabiogarcia02) 
   * [ Francisco Sacchetto](https://github.com/cicrano) 
   * [João Pedro](https://github.com/fulano) 
-  * [João Vitor](https://github.com/beltrano) 
+  * [João Vitor](https://github.com/jvplorencini) 
 
 A documentação do projeto é estruturada da seguinte forma:
 
