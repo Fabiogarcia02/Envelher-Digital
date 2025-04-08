@@ -6,10 +6,10 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1: 
+* Nome completo do aluno 1: Anthony Freitas Borges
 * Nome completo do aluno 2: Fábio Garcia Martins
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Nome completo do aluno 3: Francisco Sacchetto Andrade
+* Nome completo do aluno 4: Joao Pedro Torga
 * Nome completo do aluno 5: João Vitor Porto Lorencini
 
 ## Professores responsáveis
@@ -21,7 +21,7 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 
 ## Instruções de utilização 
 
-> **IMPORTANTE: APAGUE ESSA SEÇÃO DE INSTRUÇÕES ANTES DE ENTREGAR SEU TRABALHO**
+
 
 No desenvolvimento desse trabalho, o grupo deverá utilizar esse repositório como local para entrega de todos os artefatos a serem produzidos. Em especial, o grupo deverá providenciar a alteração dos seguintes arquivos:
 
