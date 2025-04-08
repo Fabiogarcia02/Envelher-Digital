@@ -145,7 +145,7 @@ Descrição para a tela XPTO
 
 # Metodologia
 
-O grupo do projeto EnvelhecerDigital é composto por cinco integrantes, com papéis divididos com base nas competências e interesses individuais:
+Nos do grupo do projeto EnvelhecerDigital opetamos por ultilizar os principios da metodologia agil scrum, em algum dia da semana nos reunimos para saber como esta o andamento do trabalho e o que nos podemos fazer para ajudar o trabalho a ser feito mais rapido, uma das ideias foi separa  com papéis divididos com base nas competências e interesses individuais é assim fizemos a tabela:
 
 | integrante   |  Função  |
 | ------------ | -------- |
