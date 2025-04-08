@@ -56,8 +56,7 @@ Idosos que possuem dificuldades em utilizar tecnologias digitais
 > * **Mapa de stakeholders**:
 >   ![image](https://github.com/user-attachments/assets/018f2fda-5fd2-44ca-ae13-c844f56eabf9)
 
-> * **Entrevistas qualitativas**:
->   ![image](https://github.com/user-attachments/assets/8c2f5db1-a02f-4cb9-9e67-f5ed8a7dc101)
+
 
 > * **Highlights de pesquisa**:
 >   ![image](https://github.com/user-attachments/assets/b96d4f79-c484-4054-a365-cccd4ee62ef7)
