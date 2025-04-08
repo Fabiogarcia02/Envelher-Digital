@@ -129,19 +129,9 @@ Descrição para a tela XPTO
 
 ### User Flow
 
-**✳️✳️✳️ COLOQUE AQUI O DIAGRAMA DE FLUXO DE TELAS ✳️✳️✳️**
+![image](https://github.com/user-attachments/assets/4270f2f0-96a0-4f75-b45c-25d5e270642f)
 
-![Exemplo de fluxo de telas](images/exemplo-userflow.png)
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
->
-> **Orientações**:
->
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools &amp; Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
 ### Protótipo Interativo
 
@@ -155,7 +145,7 @@ Descrição para a tela XPTO
 
 # Metodologia
 
-O grupo do projeto EnvelhecerDigital é composto por cinco integrantes, com papéis divididos com base nas competências e interesses individuais:
+Nos do grupo do projeto EnvelhecerDigital opetamos por ultilizar os principios da metodologia agil scrum, em algum dia da semana nos reunimos para saber como esta o andamento do trabalho e o que nos podemos fazer para ajudar o trabalho a ser feito mais rapido, uma das ideias foi separa  com papéis divididos com base nas competências e interesses individuais é assim fizemos a tabela:
 
 | integrante   |  Função  |
 | ------------ | -------- |
@@ -311,13 +301,7 @@ Esta seção apresenta os módulos e APIs utilizados na solução
 
 As referências utilizadas no trabalho foram:
 
-* SOBRENOME, Nome do autor. Título da obra. 8. ed. Cidade: Editora, 2000. 287 p ⚠️ EXEMPLO ⚠️
+* https://oimparcial.com.br/negocios/2024/11/desafios-tecnologicos-comuns-enfrentados-pelos-idosos/
+* https://www.mapfre.com/pt-br/actualidade/sustentabilidade/como-e-a-relacao-entre-idosos-e-tecnologia/
+* https://www.editorarealize.com.br/editora/anais/cieh/2019/TRABALHO_EV125_MD1_SA9_ID1712_27052019125015.pdf
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
->
-> **Orientações**:
->
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
