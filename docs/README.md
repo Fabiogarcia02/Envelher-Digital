@@ -174,7 +174,7 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 
 Divisão de papéis no grupo e apresentação da estrutura da ferramenta de controle de tarefas (Kanban).
 
-![Exemplo de Kanban](images/kanban-trello_1.png)(images/kanban-trello_2.png)
+![Exemplo de Kanban](images/kanban-trello_1.png)![Exemplo de Kanban](images/kanban-trello_2.png)
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
