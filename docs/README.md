@@ -151,7 +151,7 @@ Nos do grupo do projeto EnvelhecerDigital opetamos por ultilizar os principios d
 | ------------ | -------- |
 | Anthony      | Desenvolvimento Front-end |
 | Fabio        | Designer UX/UI, apoi no Front-end |
-| Francisco    | Desenvolvimento Front-end, pesquisa e sobre criação de jogos com js         |
+| Francisco    | Desenvolvimento Front-end, pesquisa sobre como fazer jogos com js         |
 | João Pedro   | Designer UX/UI |
 | João Vitor   | Pesquisa e criação de jogos com js, apoio no Front-end |
 
@@ -174,7 +174,7 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 
 Divisão de papéis no grupo e apresentação da estrutura da ferramenta de controle de tarefas (Kanban).
 
-![Exemplo de Kanban](images/exemplo-kanban.png)
+![Exemplo de Kanban](images/kanban-trello_1.png)(images/kanban-trello_2.png)
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
