@@ -110,20 +110,25 @@ Estes são os protótipos de telas do sistema.
 
 ##### TELA XPTO ⚠️ EXEMPLO ⚠️
 
-Descrição para a tela XPTO
+Imagem da página de home
 
-![Exemplo de wireframe](images/exemplo-wireframe.png)
+![Exemplo de wireframe](images/home.jpg)
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante ao layout de elementos fundamentais na interface.
->
-> **Orientações**:
->
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
+Imagem da página de login
+
+![Exemplo de wireframe](images/login.jpg)
+
+Imagem da página com jogos divertidos e educativos
+
+![Exemplo de wireframe](images/jogos.jpg)
+
+Imagem da página com as conquistas adquiridas nos jogos
+
+![Exemplo de wireframe](images/conquistas.jpg)
+
+Imagem da página com os tutoriais para cada dúvida e dificuldade dos idosos
+
+![Exemplo de wireframe](images/tutoriais.jpg)
 
 ### User Flow
 
@@ -174,14 +179,6 @@ Divisão de papéis no grupo e apresentação da estrutura da ferramenta de cont
 
 ![Exemplo de Kanban](images/kanban-trello_1.png)![Exemplo de Kanban](images/kanban-trello_2.png)
 >
-> **Orientações**:
->
-> - [Sobre Projects - GitHub Docs](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
-> - [Gestão de projetos com GitHub | balta.io](https://balta.io/blog/gestao-de-projetos-com-github)
-> - [(460) GitHub Projects - YouTube](https://www.youtube.com/playlist?list=PLiO7XHcmTsldZR93nkTFmmWbCEVF_8F5H)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 # Solução Implementada
 
 Esta seção apresenta todos os detalhes da solução criada no projeto.
