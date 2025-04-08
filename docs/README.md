@@ -178,7 +178,17 @@ Descrição para a tela XPTO
 
 # Metodologia
 
-Detalhes sobre a organização do grupo e o ferramental empregado.
+O grupo do projeto EnvelhecerDigital é composto por cinco integrantes, com papéis divididos com base nas competências e interesses individuais:
+
+| integrante   |  Função  |
+| ------------ | -------- |
+| Anthony      |          |
+| Fabio        |          |
+| Francisco    |          |
+| João Pedro   |          |
+| João Vitor   | Pesquisa e criação de jogos com js, apoio no Front-end |
+
+O acompanhamento das tarefas foi feito através de um quadro Kanban no trello, estruturado em colunas representando o progresso das atividades.
 
 ## Ferramentas
 
@@ -188,8 +198,7 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 | --------------------------- | ---------- | -------------------------------------------------- |
 | Processo de Design Thinking | Miro       |  https://miro.com/welcomeonboard/bG1rOFpsTmFjQU9HUm5Kd1crZFlwQWVzbGFXSXVTT1VxcE51cC9XWE16a3hPdGg3S2ozQnd2MTRrMDdGalhBNEsxQVRWOWw0Y2VHNHk2Q1A4RFkyMVVWNTFiaWlNeWVtRHV0dTJlcUM2eUVMZkNzSlJ1aHBNY1daalh1enAxMnFyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=770133947153       |
 | Repositório de código     | GitHub     | https://github.com/XXXXXXX ⚠️ EXEMPLO ⚠️      |
-| Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
-| Protótipo Interativo       | MarvelApp  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️   |
+| Protótipo Interativo       | Figma  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️   |
 |                             |            |                                                    |
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
