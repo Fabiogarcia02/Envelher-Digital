@@ -10,7 +10,7 @@ Informações básicas do projeto.
   * [Fábio Garcia](https://github.com/Fabiogarcia02) 
   * [ Francisco Sacchetto](https://github.com/cicrano) 
   * [João Pedro](https://github.com/fulano) 
-  * [João Vitor](https://github.com/jvplorencini) 
+  * [João Vitor Porto Lorencini](https://github.com/jvplorencini) 
 
 A documentação do projeto é estruturada da seguinte forma:
 
@@ -161,7 +161,7 @@ O grupo do projeto EnvelhecerDigital é composto por cinco integrantes, com pap�
 | ------------ | -------- |
 | Anthony      | Desenvolvimento Front-end |
 | Fabio        | Designer UX/UI, apoi no Front-end |
-| Francisco    |          |
+| Francisco    | Desenvolvimento Front-end, pesquisa e sobre criação de jogos com js         |
 | João Pedro   | Designer UX/UI |
 | João Vitor   | Pesquisa e criação de jogos com js, apoio no Front-end |
 
@@ -171,16 +171,14 @@ O acompanhamento das tarefas foi feito através de um quadro Kanban no trello, e
 
 Relação de ferramentas empregadas pelo grupo durante o projeto.
 
-| Ambiente                    | Plataforma | Link de acesso                                     |
-| --------------------------- | ---------- | -------------------------------------------------- |
-| Processo de Design Thinking | Miro       |  https://miro.com/welcomeonboard/bG1rOFpsTmFjQU9HUm5Kd1crZFlwQWVzbGFXSXVTT1VxcE51cC9XWE16a3hPdGg3S2ozQnd2MTRrMDdGalhBNEsxQVRWOWw0Y2VHNHk2Q1A4RFkyMVVWNTFiaWlNeWVtRHV0dTJlcUM2eUVMZkNzSlJ1aHBNY1daalh1enAxMnFyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=770133947153       |
-| Repositório de código      | GitHub     | https://github.com/XXXXXXX ⚠️ EXEMPLO ⚠️      |
-| Protótipo Interativo       | Figma  | https://www.figma.com/design/NwIAn7SpSR8UA2bTcbS95L/Untitled?node-id=0-1&p=f&t=pAvYgJBmjWdhqCcp-0 |
-| Quadro Kanban              | Trello           | https://trello.com/b/I8ZQLtsw/kanban-quadro-modelo |
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível. Inclua itens como: (1) Editor de código, (2) )ferramentas de comunicação, (3) )ferramentas de diagramação, (4) )plataformas de hospedagem, entre outras.
+| Ambiente                    | Plataforma         | Link de acesso                                     |
+| --------------------------- | ------------------ | -------------------------------------------------- |
+| Processo de Design Thinking | Miro               | https://miro.com/app/dashboard/       |
+| Repositório de código       | GitHub             | https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-ti1-0385100-envelhecerdigital |
+| Protótipo Interativo        | Figma              | https://www.figma.com/design/NwIAn7SpSR8UA2bTcbS95L/Untitled?node-id=0-1&p=f&t=pAvYgJBmjWdhqCcp-0 |
+| Editor de Código            | Visual Studio Code | - |
+| Comunicação                 | Discord e WhatsApp | - |
+| Gerenciamento de Tarefas    | Trello             | https://trello.com/b/I8ZQLtsw/kanban-quadro-modelo |
 
 ## Gerenciamento do Projeto
 
