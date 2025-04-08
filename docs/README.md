@@ -2,19 +2,21 @@
 
 Informações básicas do projeto.
 
-* **Projeto:** [NOME DO PROJETO]
+* **Projeto:** envelhecerdigital
 * **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
 * **Membros da equipe:**
 
-  * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
-  * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
-  * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  * [Anthony](https://github.com/fulano) 
+  * [Fábio Garcia](https://github.com/beltrano) 
+  * [ Francisco Sacchetto](https://github.com/cicrano) 
+  * [João Pedro](https://github.com/fulano) 
+  * [João Vitor](https://github.com/beltrano) 
 
 A documentação do projeto é estruturada da seguinte forma:
 
-1. Introdução
-2. Contexto
-3. Product Discovery
+1. Introdução :
+2. Contexto: 
+3. Product Discovery 
 4. Product Design
 5. Metodologia
 6. Solução
@@ -24,15 +26,13 @@ A documentação do projeto é estruturada da seguinte forma:
 
 # Contexto
 
-Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa e público-alvo.
+Nosso grupo ficou responsável por desenvolver uma solução que auxilie na acessibilidade digital para idosos nas redes sociais e nos principais aplicativos que eles usam. Para isso, elaboramos uma pesquisa para entender as principais dificuldades enfrentadas por esse público.Durante a investigação, entrevistamos pessoas idosas para saber como se sentem ao usar tecnologias digitais. Observamos que muitos se sentem excluídos do ambiente digital e encontram obstáculos tanto em atividades simples, como fazer transferências bancárias, quanto em momentos de lazer. Muitos precisam recorrer à ajuda de familiares, o que gera desconforto e sensação de incapacidade. Assim sendo, decidimos criar uma aplicação web simples, dinâmica e eficaz, com a proposta de ensinar os idosos a utilizar os principais aplicativos de redes sociais e bancos, como a Caixa e o Banco do Brasil por exemplo.
+Como nosso projeto é voltado para idosos que têm dificuldades em utilizar tecnologias digitais, o objetivo é tornar esse ambiente mais acessível para eles.
 
 ## Problema
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+Muitos idosos enfrentam dificuldades para utilizar tecnologias digitais, especialmente aplicativos de redes sociais e bancos, o que os leva a depender da ajuda de terceiros e gera sentimentos de exclusão, insegurança e incapacidade no uso do ambiente digital.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
 >
 > **Orientações**:
 >
@@ -42,11 +42,7 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Objetivos
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Desenvolver uma aplicação web simples, dinâmica e acessível que auxilie idosos a utilizarem os principais aplicativos de redes sociais e bancos, promovendo inclusão digital e autonomia no uso da tecnologia.
 >
 > **Orientações**:
 >
@@ -54,13 +50,7 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Justificativa
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Com o avanço da tecnologia e a digitalização de serviços essenciais, como bancos e redes sociais, muitos idosos têm enfrentado dificuldades para acompanhar essas mudanças. Esse público, em grande parte, não foi incluído no processo de alfabetização digital, o que gera exclusão, dependência de terceiros e sentimentos de insegurança ao utilizar esses recursos.po.
 >
 > **Orientações**:
 >
@@ -68,13 +58,7 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Público-Alvo
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva quais são as pessoas que usarão a sua aplicação indicando os diferentes perfis. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
+Idosos que possuem dificuldades em utilizar tecnologias digitais
 >
 > **Orientações**:
 >
@@ -87,9 +71,6 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 **✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
 >
 > * **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
 > * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
@@ -103,15 +84,6 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 **✳️✳️✳️ APRESENTE OS DIAGRAMAS DE PERSONAS ✳️✳️✳️**
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução almeja.
->
-> **Orientações**:
->
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Criar personas (Hotmart)](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 
 # Product Design
 
@@ -155,31 +127,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID     | Descrição do Requisito                                   | Prioridade |
 | ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| RF-001 | ensinar como ver o saldo                                    |ALTA       |
+| RF-002 | entrar no app do no banco                                   | ALTA     |
+| RF-002 | pagar a conta pelo banco                                    | ALTA     |
+| RF-002 | accessar  a rede sociais                                    | MÉDIA     |
+| RF-002 | navegar pela no aplicativo                                  | MÉDIA     |
 
 ### Requisitos não Funcionais
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
 | ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo para rodar em um dispositivos móvel ⚠️ EXEMPLO ⚠️ | MÉDIA     |
-| RNF-002 | Deve processar requisições do usuário em no máximo 3s ⚠️ EXEMPLO ⚠️          | BAIXA      |
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Os requisitos de um projeto são classificados em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.
->
-> **Orientações**:
->
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+| RNF-001 | O sistema deve ser responsivo para rodar em um dispositivos móvel                     | ALTA       |
+| RNF-002 | O sistema deve permitir a auteração de cor da pagina                                  | BAIXA      |
 
 ## Projeto de Interface
 
@@ -244,7 +203,7 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 
 | Ambiente                    | Plataforma | Link de acesso                                     |
 | --------------------------- | ---------- | -------------------------------------------------- |
-| Processo de Design Thinking | Miro       | https://miro.com/XXXXXXX ⚠️ EXEMPLO ⚠️        |
+| Processo de Design Thinking | Miro       |  https://miro.com/welcomeonboard/bG1rOFpsTmFjQU9HUm5Kd1crZFlwQWVzbGFXSXVTT1VxcE51cC9XWE16a3hPdGg3S2ozQnd2MTRrMDdGalhBNEsxQVRWOWw0Y2VHNHk2Q1A4RFkyMVVWNTFiaWlNeWVtRHV0dTJlcUM2eUVMZkNzSlJ1aHBNY1daalh1enAxMnFyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=770133947153       |
 | Repositório de código     | GitHub     | https://github.com/XXXXXXX ⚠️ EXEMPLO ⚠️      |
 | Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
 | Protótipo Interativo       | MarvelApp  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️   |
