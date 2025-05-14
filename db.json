@@ -1,0 +1,43 @@
+{
+  "jogos": [
+    {
+      "id": 1,
+      "titulo_jogo": "Senhas Seguras",
+      "descricao": "Aprenda a criar senhas fortes.",
+      "imagem": "imgs/senhascarrosel.png",
+      "link": "jogo/senhas.html"
+    },
+    {
+      "id": 2,
+      "titulo_jogo": "Memória Digital",
+      "descricao": "Jogo de memória com ícones da internet.",
+      "imagem": "imgs/jogodamemoria.png",
+      "link": "jogo/memoria.html"
+    },
+    {
+      "id": 3,
+      "titulo_jogo": "Simulador de Email",
+      "descricao": "Aprenda a usar e-mails com segurança.",
+      "imagem": "imgs/jogogmail.png",
+      "link": "jogo/email.html"
+
+    }, 
+    
+
+{
+    "id": 4,
+      "titulo_jogo": " Jogo da memoria ",
+      "descricao": "Jogo  da memoria com os principais temas e apps da internet.",
+      "imagem": "imgs/jogodamemoria.png",
+      "link": "jogo/damemoria.html"
+},
+
+{
+   "id": 5,
+      "titulo_jogo": " Caça palavras ",
+      "descricao": "Jogo de caça palavras com temáticas a partir do seu aprendizado.",
+      "imagem": "imgs/caça palvras.png",
+      "link": "jogo/caçapalavras.html"
+}
+  ]
+}
