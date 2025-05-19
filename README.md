@@ -9,12 +9,12 @@
 * Nome completo do aluno 3 : Francisco Sachetto
 * Nome completo do aluno 4: Joa Vitor Porto
 * * Nome completo do aluno 5: Caio Leal
->>>>>>> origin/master
+
 
 ## Professores responsáveis
 
 * Nome completo do professor 1: Rommel Vieira Carneiro
-<<<<<<< HEAD
+
 * Nome completo do professor 2: Cleiton Silva Tavares
 
 
