@@ -1,4 +1,4 @@
-
+Contribuiçao individual no projeto
 
 
 ## Alunos integrantes da equipe
